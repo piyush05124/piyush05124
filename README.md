@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @piyush05124
-- 👀 I’m interested in AI, machine learning, deep learning, IOT, embedded systems
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m ER Piyush keshari
+- 👀 I’m interested in AI, machine learning, deep learning, IOT, embedded systems, Robotics
+- 🌱 I’m currently working in brightchamps 
+- 💞️ I have 3 research papers published in reputed journals and can be found on Google Scholar.
 - 📫 How to reach me: my mail id is kesharipiyush05124@gmail.com
 
 
