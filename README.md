@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, machine learning, deep learning, IOT, embedded systems, Robotics
 - 🌱 I’m a researcher and software developer.
 - 💞️ I have 3 research papers published in reputed journals and can be found on Google Scholar.
-- 📫 How to reach me: my mail id is kesharipiyush05124@gmail.com
+- 📫 How to reach me: my email id is kesharipiyush05124@gmail.com
 
 
 <!---
