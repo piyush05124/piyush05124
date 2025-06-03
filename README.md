@@ -3,7 +3,7 @@
 🚀 Software Developer | 🎓 AI/ML Researcher | 🤖 Robotics & Embedded Systems Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/piyush-keshari-755b41177/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Click%20Here-blueviolet?style=flat-square&logo=google-scholar)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Click%20Here-blueviolet?style=flat-square&logo=google-scholar)]([https://scholar.google.com](https://scholar.google.com/citations?user=seoKtFQAAAAJ&hl=en&authuser=1))
 [![Email](https://img.shields.io/badge/Email-kesharipiyush05124@gmail.com-red?style=flat-square&logo=gmail)](mailto:kesharipiyush05124@gmail.com)
 
 ---
