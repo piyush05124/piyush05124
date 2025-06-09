@@ -29,7 +29,8 @@
 
 ---
 ## Digital Badges Earned
-![alt text](https://github.com/piyush05124/piyush05124/blob/main/aws-educate-machine-learning-foundations.png)
+![alt text](https://github.com/piyush05124/piyush05124/blob/main/aws-educate-machine-learning-foundations.png) 
+
 [AWS](https://www.credly.com/badges/190c7d57-6393-40e5-986f-875455f9be24/public_url)
 ---
 
