@@ -29,7 +29,7 @@
 
 ---
 # Digital Badges Earned
-[!Badge[AWS Machine Learning Foundation Badge]](https://www.credly.com/badges/190c7d57-6393-40e5-986f-875455f9be24/public_url)
+[!license[AWS Machine Learning Foundation Badge]](https://www.credly.com/badges/190c7d57-6393-40e5-986f-875455f9be24/public_url)
 ---
 
 ## 📘 Featured Projects
