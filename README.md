@@ -29,8 +29,7 @@
 
 ---
 # Digital Badges Earned
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-[AWS Machine Learning Foundation Badge](https://www.credly.com/badges/190c7d57-6393-40e5-986f-875455f9be24/public_url)
+[!Badge[AWS Machine Learning Foundation Badge]](https://www.credly.com/badges/190c7d57-6393-40e5-986f-875455f9be24/public_url)
 ---
 
 ## 📘 Featured Projects
