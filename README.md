@@ -29,11 +29,10 @@
 
 ---
 ## Digital Badges Earned
-![alt text](https://github.com/piyush05124/piyush05124/blob/main/aws-educate-machine-learning-foundations.png) 
+![alt text](https://github.com/piyush05124/piyush05124/blob/main/aws-educate-machine-learning-foundations.png)    ![Udacity Badge](https://github.com/piyush05124/piyush05124/blob/main/Screenshot%20from%202025-07-19%2013-00-51.png?raw=true)
 
 [AWS](https://www.credly.com/badges/190c7d57-6393-40e5-986f-875455f9be24/public_url)
 
-![Udacity Badge](https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/Certification%20Badge%2010_1.jpg?bsft_eid=ba391f4a-c88d-fe4f-79c3-9a166d1bafb8&utm_campaign=sch_600_auto_ndxxx_aws-challenge-completion-badge_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_auto_ndxxx_aws-challenge-completion-badge_global&bsft_clkid=d96615cc-7225-4aaf-8255-c2434108a90f&bsft_uid=075441ef-3a3c-4911-8185-3c6e9e247b92&bsft_mid=f0091792-d279-4789-a2b2-4fdad9e5d677&bsft_txnid=90e7d824-9f6c-4314-abab-17d4a5feeae4&bsft_mime_type=html&bsft_ek=2025-06-21T19%3A00%3A02Z&bsft_lx=3&bsft_tv=8&bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2)
 ---
 
 ## 📘 Featured Projects
